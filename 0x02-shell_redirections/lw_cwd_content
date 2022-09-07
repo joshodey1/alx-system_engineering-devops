@@ -1,0 +1,14 @@
+total 21
+drwxr-xr-x 1 USER 197121   0 Sep  7 07:43 .
+drwxr-xr-x 1 USER 197121   0 Sep  7 01:55 ..
+-r-xr-xr-x 1 USER 197121  39 Sep  7 01:24 0-hello_world
+-rwxr-xr-x 1 USER 197121  29 Sep  7 01:57 1-confused_smiley
+-rwxr-xr-x 1 USER 197121  28 Sep  7 02:00 2-hellofile
+-rwxr-xr-x 1 USER 197121  38 Sep  7 02:02 3-twofiles
+-rwxr-xr-x 1 USER 197121  34 Sep  7 02:03 4-lastlines
+-rwxr-xr-x 1 USER 197121  34 Sep  7 02:04 5-firstlines
+-rwxr-xr-x 1 USER 197121  40 Sep  7 02:08 6-third_line
+-rw-r--r-- 1 USER 197121  71 Sep  7 02:11 7-file
+-r-xr-xr-x 1 USER 197121  36 Sep  7 02:15 8-cwd_state
+-rw-r--r-- 1 USER 197121 745 Sep  7 02:06 iacta
+-rw-r--r-- 1 USER 197121   0 Sep  7 07:43 lw_cwd_content
